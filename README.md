@@ -1,0 +1,1 @@
+This serves as a demonstration of the basic html skills I am learning through The Odin Project
